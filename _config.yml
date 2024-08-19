@@ -3,33 +3,25 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Gottilla
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Soccer - Books
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/178738384?s=400&u=0b11d2f8d24f28b1a57d3e866bae8b650bbda9a5&v=4
 
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+# footer-links:
+#   dribbble:
+#   twitter: jekyllrb
+#   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+#   youtube: # channel/<your_long_string> or user/<user-name>
+#   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
